@@ -39,4 +39,4 @@ arquivo.write('Local de Nascimento: {}\n'.format(l))
 arquivo.write('E-mail: {}\n'.format(e))
 arquivo.close()
 
-input("Até mais ver!")
+input("Até mais ver!!")
